@@ -1,16 +1,24 @@
-## Hi there 👋
+<table>
+<tr>
+<td width="70%">
 
-<!--
-**manunesbp/manunesbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Oii! Eu sou a Mari! Bem-vindos ao meu git<3
 
-Here are some ideas to get you started:
+- 🧡 ྀིྀི Procurando ter um aprendizado produtivo
+- 🦊 ༘˚ Atualmente estudando Python!
+- 🧸₊˚ Pronomes: ela/dela
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+
+<td width="30%" align="center">
+
+<img src="https://i.pinimg.com/736x/ad/9d/b4/ad9db41fea8aca5c02d63b7192b9b25a.jpg" width="220">
+
+</td>
+</tr>
+</table>
+
+| Línguas que estou aprendendo | Pretendo aprender |
+| :--- | :--- |
+| Python | C# |
+| - | Java |
