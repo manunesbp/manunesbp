@@ -2,7 +2,7 @@
 <tr>
 <td width="70%">
 
-# Oii! Eu sou a Mari! Bem-vindos ao meu git<3
+# Oii! Eu sou a Mazi! Bem-vindos ao meu git<3
 
 - 🧡 ྀིྀི Procurando ter um aprendizado produtivo
 - 🦊 ༘˚ Atualmente estudando Python!
