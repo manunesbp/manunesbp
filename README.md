@@ -18,7 +18,7 @@ I wanna learn some time:
 
 ![Java](https://img.shields.io/badge/JAVA-f9dccc?style=for-the-badge&logo=openjdk&logoColor=black)
 ![C](https://img.shields.io/badge/C-f9dccc?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-f9dccc?style=for-the-badge&logo=cplusplus&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-f9dccc?style=for-the-badge&logo=c%2B%2B&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-f9dccc?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-f9dccc?style=for-the-badge&logo=css3&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-f9dccc?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,5 +28,6 @@ Common tools that I'm used to work:
 ![Trello](https://img.shields.io/badge/TRELLO-f9dccc?style=for-the-badge&logo=trello&logoColor=black)
 ![Canva](https://img.shields.io/badge/CANVA-f9dccc?style=for-the-badge&logo=canva&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-f9dccc?style=for-the-badge&logo=figma&logoColor=black)
+
 </div>
 
