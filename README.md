@@ -5,10 +5,11 @@
 <img src="https://raw.githubusercontent.com/manunesbp/manunesbp/main/ramen.gif" alt="ramen" width="700">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bonheur+Royale&size=25&pause=1000&color=875043&width=435&lines=Having+fun+while+you+learn+it's+the+best+way+to+become+a+genius" alt="Typing SVG" /></a>
----
+
 
 
 </div>
+
 
 ## About me:
 ▸ Computer science student from **CESAR SCHOOL** institution<br>
@@ -18,6 +19,8 @@
 
 
 </div>
+
+---
 
 Linguagens que estou aprendendo:
 
