@@ -1,6 +1,6 @@
 <div align="center">
-  
-![Hello world ! I'm Mazi >ᴗ<](https://readmes.pages.dev/text/say/Hi%2C%20I'm%20Mazi%20!%20%3E%E1%B4%97%3C/typing/serif/color-e68d71/size-25/dark/sparkles)
+
+![Hello world ! I'm Mazi >ᴗ<](https://readmes.pages.dev/text/say/Hello%20world%20!%20I'm%20Mazi%20%3E%E1%B4%97%3C/typing/serif/color-e68d71/size-20/dark/sparkles)
 
 <img src="https://raw.githubusercontent.com/manunesbp/manunesbp/main/ramen.gif" alt="ramen" width="700">
 
