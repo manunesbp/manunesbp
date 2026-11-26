@@ -1,24 +1,10 @@
-<table>
-<tr>
-<td width="70%">
 
-# Oii! Eu sou a Mazi! Bem-vindos ao meu git<3
 
-- 🧡 ྀིྀི Procurando ter um aprendizado produtivo
-- 🦊 ༘˚ Atualmente estudando Python!
-- 🧸₊˚ Pronomes: ela/dela
+<div align="center">
 
-</td>
+![Hi! I'm Mazi! >ᴗ<](https://readmes.pages.dev/text/say/Hi!%20I'm%20Mazi!%20%3E%E1%B4%97%3C/typing/serif/color-8e6cdf/size-24/dark/sparkles)
 
-<td width="30%" align="center">
+</div>
 
-<img src="https://i.pinimg.com/736x/ad/9d/b4/ad9db41fea8aca5c02d63b7192b9b25a.jpg" width="220">
 
-</td>
-</tr>
-</table>
 
-| Línguas que estou aprendendo | Pretendo aprender |
-| :--- | :--- |
-| Python | C# |
-| - | Java |
